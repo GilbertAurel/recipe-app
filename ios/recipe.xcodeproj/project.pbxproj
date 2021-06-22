@@ -12,6 +12,15 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		13AED68D06534B0487FAD45C /* whitneybold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6E99F9BB834448FEA1C43ECA /* whitneybold.otf */; };
+		247F4C40FFCB4CB892D24CC0 /* whitneybook.otf in Resources */ = {isa = PBXBuildFile; fileRef = EF66D063B9AF4A7DB0F0D1DE /* whitneybook.otf */; };
+		2F2809D0E04F4BB5B82FEA8A /* whitneybookitalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E84D894802E944EBACDC68F3 /* whitneybookitalic.otf */; };
+		4E192C3BFE6546029EF99269 /* whitneylight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 64FE8E5F217F4F58A777B8BA /* whitneylight.otf */; };
+		C4EB4FE1CD624228BBB4BD21 /* whitneylightitalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A785EB859FEB48BEB7E6DD99 /* whitneylightitalic.otf */; };
+		DA662F837D684303ABB7A87C /* whitneymedium.otf in Resources */ = {isa = PBXBuildFile; fileRef = A8CA8C1BEC444E63A8F83DF9 /* whitneymedium.otf */; };
+		A654A5965DE748A5BA89F655 /* whitneymediumitalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DB47398A48A041A391233BCF /* whitneymediumitalic.otf */; };
+		CA66FDE39C2C4DBDAD848CF3 /* whitneysemibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD7AEC9776AA4F3ABCFC4B7F /* whitneysemibold.otf */; };
+		21929FAE81094D77A7ED9AD0 /* WhitneySemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4E14C10AE84640388D1F5129 /* WhitneySemiboldItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +45,15 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = recipe/main.m; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = recipe/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		6E99F9BB834448FEA1C43ECA /* whitneybold.otf */ = {isa = PBXFileReference; name = "whitneybold.otf"; path = "../assets/fonts/whitneybold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EF66D063B9AF4A7DB0F0D1DE /* whitneybook.otf */ = {isa = PBXFileReference; name = "whitneybook.otf"; path = "../assets/fonts/whitneybook.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E84D894802E944EBACDC68F3 /* whitneybookitalic.otf */ = {isa = PBXFileReference; name = "whitneybookitalic.otf"; path = "../assets/fonts/whitneybookitalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		64FE8E5F217F4F58A777B8BA /* whitneylight.otf */ = {isa = PBXFileReference; name = "whitneylight.otf"; path = "../assets/fonts/whitneylight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A785EB859FEB48BEB7E6DD99 /* whitneylightitalic.otf */ = {isa = PBXFileReference; name = "whitneylightitalic.otf"; path = "../assets/fonts/whitneylightitalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A8CA8C1BEC444E63A8F83DF9 /* whitneymedium.otf */ = {isa = PBXFileReference; name = "whitneymedium.otf"; path = "../assets/fonts/whitneymedium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DB47398A48A041A391233BCF /* whitneymediumitalic.otf */ = {isa = PBXFileReference; name = "whitneymediumitalic.otf"; path = "../assets/fonts/whitneymediumitalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FD7AEC9776AA4F3ABCFC4B7F /* whitneysemibold.otf */ = {isa = PBXFileReference; name = "whitneysemibold.otf"; path = "../assets/fonts/whitneysemibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4E14C10AE84640388D1F5129 /* WhitneySemiboldItalic.otf */ = {isa = PBXFileReference; name = "WhitneySemiboldItalic.otf"; path = "../assets/fonts/WhitneySemiboldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +127,7 @@
 				00E356EF1AD99517003FC87E /* recipeTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				D5C5C4BE463C4C5D803A6B2E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -123,6 +142,23 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+		};
+		D5C5C4BE463C4C5D803A6B2E /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				6E99F9BB834448FEA1C43ECA /* whitneybold.otf */,
+				EF66D063B9AF4A7DB0F0D1DE /* whitneybook.otf */,
+				E84D894802E944EBACDC68F3 /* whitneybookitalic.otf */,
+				64FE8E5F217F4F58A777B8BA /* whitneylight.otf */,
+				A785EB859FEB48BEB7E6DD99 /* whitneylightitalic.otf */,
+				A8CA8C1BEC444E63A8F83DF9 /* whitneymedium.otf */,
+				DB47398A48A041A391233BCF /* whitneymediumitalic.otf */,
+				FD7AEC9776AA4F3ABCFC4B7F /* whitneysemibold.otf */,
+				4E14C10AE84640388D1F5129 /* WhitneySemiboldItalic.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -214,6 +250,15 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				13AED68D06534B0487FAD45C /* whitneybold.otf in Resources */,
+				247F4C40FFCB4CB892D24CC0 /* whitneybook.otf in Resources */,
+				2F2809D0E04F4BB5B82FEA8A /* whitneybookitalic.otf in Resources */,
+				4E192C3BFE6546029EF99269 /* whitneylight.otf in Resources */,
+				C4EB4FE1CD624228BBB4BD21 /* whitneylightitalic.otf in Resources */,
+				DA662F837D684303ABB7A87C /* whitneymedium.otf in Resources */,
+				A654A5965DE748A5BA89F655 /* whitneymediumitalic.otf in Resources */,
+				CA66FDE39C2C4DBDAD848CF3 /* whitneysemibold.otf in Resources */,
+				21929FAE81094D77A7ED9AD0 /* WhitneySemiboldItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
