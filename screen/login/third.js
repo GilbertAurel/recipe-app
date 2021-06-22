@@ -15,8 +15,9 @@ export default function third({navigation}) {
       <LoginBackground image={IMAGES.syringe2} />
       <View style={styles.titleContainer}>
         <Title style={{color: COLORS.primary}} text="Lorem Ipsum" />
+        <Title style={{color: COLORS.primary}} text="Excepturi, Elit." />
         <Text style={styles.details}>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi culpa
+          Lorem, ipsum dolor sit amet consectetur adipisicing. Quasi culpa
           incidunt odit illo magnam officia explicabo temporibus quaerat sint
           saepe.
         </Text>
