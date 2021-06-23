@@ -6,6 +6,9 @@ export const COLORS = {
   secondary: '#39afa1',
   dark: '#1f3d57',
   bright: '#F1F5F9',
+  inactive: '#e1e5e9',
+  white: '#fff',
+  black: '#000',
 };
 
 export const SIZES = {
